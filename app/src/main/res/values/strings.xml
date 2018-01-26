@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Interfaces</string>
+    <string name="username_hint">Username</string>
+    <string name="passwrd_hint">******</string>
+    <string name="buttonName">SIGN IN</string>
+    <string name="sign_up_text">Don\'t have an account. Sign up!</string>
+</resources>
